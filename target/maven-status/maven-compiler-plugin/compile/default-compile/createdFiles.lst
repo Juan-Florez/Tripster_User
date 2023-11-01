@@ -1,0 +1,6 @@
+com\unal\tripster_user_ms\UsuarioRepository.class
+com\unal\tripster_user_ms\UsuarioController.class
+com\unal\tripster_user_ms\UsuarioService.class
+com\unal\tripster_user_ms\Usuario.class
+com\unal\tripster_user_ms\TripsterUserMsApplication.class
+com\unal\tripster_user_ms\UsuarioServiceImpl.class
